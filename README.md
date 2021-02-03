@@ -9,4 +9,5 @@
 
 블로그 또는 프로젝트 등에 관심이나 문의사항이 있다면 rkdwldk16@gmail.com으로 메일주시면 감사하겠습니다. :)
 
-*이 블로그는 다른 개발자님의 블로그를 기반으로 제작되었음을 알려드립니다. 블로그 출처 https://github.com/theorydb/theorydb.github.io *
+*이 블로그는 다른 개발자님의 블로그를 기반으로 제작되었음을 알려드립니다.
+블로그 출처 https://github.com/theorydb/theorydb.github.io *
