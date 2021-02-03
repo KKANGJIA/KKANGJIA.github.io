@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Think
-slug: think
-category: think
+title: Notice
+slug: notice
+category: notice
 menu: false
 order: 1
 ---

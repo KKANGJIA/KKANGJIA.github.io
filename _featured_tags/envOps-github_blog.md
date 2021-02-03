@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: DL
-slug: dl
-category: dev
+title: EnvOps
+slug: envOps
+category: envOps
 menu: false
 order: 2
 ---

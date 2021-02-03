@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Statistics & R
-slug: r
+title: lecture note
+slug: lecture note
 category: dev
 menu: false
-order: 1
+order: 4
 ---
